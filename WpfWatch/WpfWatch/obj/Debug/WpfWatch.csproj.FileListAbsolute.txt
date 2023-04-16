@@ -1,0 +1,35 @@
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\bin\Debug\WpfWatch.dll
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\bin\Debug\WpfWatch.pdb
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\Watch.baml
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\Watch.g.cs
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch_MarkupCompile.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch.g.resources
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch.Properties.Resources.resources
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch.csproj.GenerateResource.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch.dll
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatch\obj\Debug\WpfWatch.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\bin\Debug\WpfWatch.dll
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\bin\Debug\WpfWatch.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.csprojAssemblyReference.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\Watch.baml
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\Watch.g.cs
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch_MarkupCompile.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.g.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.Properties.Resources.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.csproj.GenerateResource.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.csproj.CoreCompileInputs.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.dll
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatch\obj\Debug\WpfWatch.pdb
+C:\Users\User\source\repos\WpfWatch\WpfWatch\bin\Debug\WpfWatch.dll
+C:\Users\User\source\repos\WpfWatch\WpfWatch\bin\Debug\WpfWatch.pdb
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\Watch.baml
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\Watch.g.cs
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch_MarkupCompile.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.g.resources
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.Properties.Resources.resources
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.dll
+C:\Users\User\source\repos\WpfWatch\WpfWatch\obj\Debug\WpfWatch.pdb

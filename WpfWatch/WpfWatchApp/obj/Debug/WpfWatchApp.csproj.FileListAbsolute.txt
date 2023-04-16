@@ -1,0 +1,54 @@
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\bin\Debug\WpfWatchApp.exe.config
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\bin\Debug\WpfWatchApp.exe
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\bin\Debug\WpfWatchApp.pdb
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\bin\Debug\WpfWatch.dll
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\bin\Debug\WpfWatch.pdb
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csprojAssemblyReference.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\MainWindow.g.cs
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\App.g.cs
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp_MarkupCompile.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp_MarkupCompile.lref
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\MainWindow.baml
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.g.resources
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.Properties.Resources.resources
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.GenerateResource.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.CoreCompileInputs.cache
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.CopyComplete
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.exe
+E:\YandexDisk\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\bin\Debug\WpfWatchApp.exe.config
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\bin\Debug\WpfWatchApp.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\bin\Debug\WpfWatchApp.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\bin\Debug\WpfWatch.dll
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\bin\Debug\WpfWatch.pdb
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.csprojAssemblyReference.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\MainWindow.g.cs
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\App.g.cs
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp_MarkupCompile.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp_MarkupCompile.lref
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\MainWindow.baml
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.g.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.Properties.Resources.resources
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.GenerateResource.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.CoreCompileInputs.cache
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.CopyComplete
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.exe
+Z:\Users\kolya59\Yandex.Disk.localized\Универ\Компонентное программирование\Практика\Практика №1\WpfWatch (2)\WpfWatchApp\obj\Debug\WpfWatchApp.pdb
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\bin\Debug\WpfWatchApp.exe.config
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\bin\Debug\WpfWatchApp.exe
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\bin\Debug\WpfWatchApp.pdb
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\bin\Debug\WpfWatch.dll
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\bin\Debug\WpfWatch.pdb
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp_MarkupCompile.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp_MarkupCompile.lref
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.g.resources
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.Properties.Resources.resources
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.csproj.CopyComplete
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.exe
+C:\Users\User\source\repos\WpfWatch\WpfWatchApp\obj\Debug\WpfWatchApp.pdb
